@@ -1,0 +1,7 @@
+.question-container {
+    padding: 10px;
+}
+
+.question-container fieldset {
+    width: 100%;
+}
